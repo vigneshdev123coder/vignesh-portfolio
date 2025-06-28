@@ -1,8 +1,9 @@
 {
-  "name": "my-app",
+  "name": "vignesh-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/vigneshdev123coder/vignesh-portfolio.git",
+"homepage": "https://vigneshdev123coder.github.io/vignesh-portfolio",
+
 
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
