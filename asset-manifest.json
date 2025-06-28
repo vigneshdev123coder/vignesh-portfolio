@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/vignesh-portfolio/static/css/main.7c031ca7.css",
-    "main.js": "/vignesh-portfolio/static/js/main.50a60487.js",
+    "main.css": "/vignesh-portfolio/static/css/main.28e63b99.css",
+    "main.js": "/vignesh-portfolio/static/js/main.b1a5d2d2.js",
     "static/js/453.88863c76.chunk.js": "/vignesh-portfolio/static/js/453.88863c76.chunk.js",
+    "static/media/resume.pdf": "/vignesh-portfolio/static/media/resume.2dd0678cae0d53f38156.pdf",
     "static/media/portfolio img.png": "/vignesh-portfolio/static/media/portfolio img.b96c631a695b31a56c1d.png",
     "static/media/restaurant.jpeg": "/vignesh-portfolio/static/media/restaurant.1eab3d11179a945e2e52.jpeg",
     "static/media/port3.jpg": "/vignesh-portfolio/static/media/port3.f24800b04a4a0e79f281.jpg",
     "index.html": "/vignesh-portfolio/index.html",
-    "main.7c031ca7.css.map": "/vignesh-portfolio/static/css/main.7c031ca7.css.map",
-    "main.50a60487.js.map": "/vignesh-portfolio/static/js/main.50a60487.js.map",
+    "main.28e63b99.css.map": "/vignesh-portfolio/static/css/main.28e63b99.css.map",
+    "main.b1a5d2d2.js.map": "/vignesh-portfolio/static/js/main.b1a5d2d2.js.map",
     "453.88863c76.chunk.js.map": "/vignesh-portfolio/static/js/453.88863c76.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c031ca7.css",
-    "static/js/main.50a60487.js"
+    "static/css/main.28e63b99.css",
+    "static/js/main.b1a5d2d2.js"
   ]
 }
